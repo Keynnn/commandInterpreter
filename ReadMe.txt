@@ -1,22 +1,9 @@
-[]	Lancement du projet d'ADS4
+[]	Interpréteur de commandes Java
 
-1 - Création/mise à jour de la classe Lexer à l'aide du fichier jflex
-
-		jflex jetons.flex
-
-2 - Compilation des fichiers Java
+1 - Compilez les fichiers java
 
 		javac *.java
 		
-3 - Exécution de la class principale sur les fichiers tests
+2 - Exécution de la classe principale sur les fichiers tests
 
 		java Main Test/fichier
-		
-
-
-[]	Voici les parties réalisées sur ce projet
-
-	-	Langage de base
-	-	Constantes
-	-	Conditionnelles
-	-	Variables (extension)
